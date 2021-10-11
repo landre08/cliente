@@ -1,5 +1,5 @@
 # **Instruções**
-## CRUD em PHP - Caixa Agendamento.
+## CRUD em PHP - Registro de Cliente.
 
 _Instalação do Sistema:_
 
