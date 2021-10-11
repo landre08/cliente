@@ -5,7 +5,7 @@ _Instalação do Sistema:_
 
 1. Clone o projeto
 2. Rode o scrip do banco de dados (bd_caixa_eletronico.sql)
-3. Chamada na URL: localhost/agendamento
+3. Chamada na URL: localhost/agendamento 
 
 _Ferramentas utilizadas:_
 - `PHP 7.2`
